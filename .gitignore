@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 public/gameplan.gif
+
+# Large video files
+public/*.mp4
+public/main_video1.mp4
