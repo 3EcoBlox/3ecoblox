@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 public/gameplan.gif
 
-# Large video files
-public/*.mp4
+# Large video files (over 100MB)
+public/main_video.mp4
 public/main_video1.mp4

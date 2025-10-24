@@ -91,7 +91,7 @@ const Hero = () => {
                 preload="metadata"
                 poster="/placeholder.svg"
               >
-                <source src="/main_video1.mp4" type="video/mp4" />
+                <source src="/updated_main_video1.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               

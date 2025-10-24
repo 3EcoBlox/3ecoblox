@@ -22,7 +22,12 @@
       "Bash(git remote set-url:*)",
       "Bash(git credential-manager:*)",
       "Bash(cmdkey /list:*)",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "Bash(if [ -f \"public/updatedmain_video1.mp4\" ])",
+      "Bash(then ls -lh public/updatedmain_video1.mp4)",
+      "Bash(awk:*)",
+      "Bash(else echo \"File not found\")",
+      "Bash(fi)"
     ],
     "deny": [],
     "ask": []
