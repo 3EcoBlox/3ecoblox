@@ -21,7 +21,8 @@
       "Bash(npm install:*)",
       "Bash(git remote set-url:*)",
       "Bash(git credential-manager:*)",
-      "Bash(cmdkey /list:*)"
+      "Bash(cmdkey /list:*)",
+      "Bash(git pull:*)"
     ],
     "deny": [],
     "ask": []
