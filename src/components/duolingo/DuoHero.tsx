@@ -31,16 +31,23 @@ const DuoHero = () => {
           </div>
         </div>
         <div className="duo-hero-right">
-          <img
-            src="/page 1.png"
-            alt="EcoBlox Gaming Platform"
+          <video
+            controls
+            autoPlay
+            muted
+            loop
+            playsInline
+            preload="metadata"
             style={{
               width: '100%',
               height: 'auto',
               borderRadius: '24px',
               objectFit: 'contain'
             }}
-          />
+          >
+            <source src="/main_video1.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
         </div>
       </div>
     </section>

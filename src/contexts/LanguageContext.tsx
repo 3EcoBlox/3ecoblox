@@ -34,9 +34,9 @@ const translations = {
     'nav.ecoblox': '3EcoBlox',
     
     // Hero Section
-    'hero.title': 'Turn Gaming Passion into',
-    'hero.title.environmental': 'Environmental',
-    'hero.title.action': 'Action',
+    'hero.title': 'Create on Roblox Engine.',
+    'hero.title.environmental': 'Impact the Planet.',
+    'hero.title.action': 'Inspire Millions.',
     'hero.description': '10-week program where students create real games while learning environmental problem-solving and digital citizenship',
     'hero.smallGroups': 'Small Groups',
     'hero.safeEnvironment': 'Safe Environment',
@@ -114,7 +114,7 @@ const translations = {
     // Student Roles
     'roles.title': 'Choose Your Specialization',
     'roles.description': 'Every student chooses a role that matches their interests and strengths. All roles collaborate to create impactful environmental games.',
-    'roles.chooseYourPath': 'Choose Your Path',
+    'roles.chooseYourPath': 'Unlock Your Potential',
     'roles.pathSubtitle': 'Every student picks a specialization and contributes their unique skills',
     'roles.builder': 'Builder',
     'roles.builderSubtitle': '3D Design & Architecture',
@@ -386,9 +386,9 @@ const translations = {
     'nav.ecoblox': '에코블록스',
     
     // Hero Section
-    'hero.title': '게임 열정을',
-    'hero.title.environmental': '환경',
-    'hero.title.action': '실천으로',
+    'hero.title': 'Roblox 엔진으로 만들기.',
+    'hero.title.environmental': '지구에 영향 미치기.',
+    'hero.title.action': '수백만 명에게 영감 주기.',
     'hero.description': '학생들이 환경 문제 해결과 디지털 시민의식을 배우며 실제 게임을 만드는 10주 프로그램',
     'hero.smallGroups': '소규모 그룹',
     'hero.safeEnvironment': '안전한 환경',

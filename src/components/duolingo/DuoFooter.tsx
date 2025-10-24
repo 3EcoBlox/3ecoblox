@@ -1,6 +1,9 @@
 import ContactPopup from "@/components/ContactPopup";
+import { useLanguage } from "@/contexts/LanguageContext";
 
 const DuoFooter = () => {
+  const { t } = useLanguage();
+
   return (
     <footer className="duo-footer">
       <div className="duo-footer-content">
@@ -12,7 +15,7 @@ const DuoFooter = () => {
               style={{ height: '48px', width: 'auto' }}
             />
           </div>
-          <p style={{ color: '#E0E0E0', marginBottom: '16px', maxWidth: '300px' }}>
+          <p style={{ color: '#555555', marginBottom: '16px', maxWidth: '300px', fontWeight: '500' }}>
             Transforming gaming passion into environmental action through educational game development.
           </p>
           <div style={{ marginTop: '20px' }}>
@@ -25,12 +28,11 @@ const DuoFooter = () => {
         </div>
 
         <div className="duo-footer-col">
-          <h4>Program</h4>
+          <h4>Partners</h4>
           <ul>
-            <li><a href="#program">Highlights</a></li>
-            <li><a href="#timeline">Timeline</a></li>
-            <li><a href="#roles">Student Roles</a></li>
-            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="/parents">Parents</a></li>
+            <li><a href="/nonprofit">Nonprofits</a></li>
+            <li><a href="/companies">Companies</a></li>
           </ul>
         </div>
 
@@ -43,11 +45,11 @@ const DuoFooter = () => {
         </div>
 
         <div className="duo-footer-col">
-          <h4>Resources</h4>
+          <h4>Program</h4>
           <ul>
-            <li><a href="#faq">FAQ</a></li>
-            <li><a href="#about">About Us</a></li>
-            <li><a href="#safety">Online Safety</a></li>
+            <li><a href="/#program">Program</a></li>
+            <li><a href="/#testimonials">Testimonials</a></li>
+            <li><a href="/#roles">Student Roles</a></li>
           </ul>
         </div>
       </div>

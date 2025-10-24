@@ -81,7 +81,7 @@ const Hero = () => {
           {/* Right Content - Hero Video */}
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl hover:shadow-glow transition-all duration-500 transform hover:scale-105">
-              <video 
+              <video
                 className="w-full h-auto object-cover"
                 controls
                 autoPlay
@@ -91,7 +91,7 @@ const Hero = () => {
                 preload="metadata"
                 poster="/placeholder.svg"
               >
-                <source src="/Game-Based Learning in Action_ EcoBlox Field Trip to Korea s Environmental Theme Park.mp4" type="video/mp4" />
+                <source src="/main_video1.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               
