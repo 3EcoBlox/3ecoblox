@@ -1,0 +1,76 @@
+{
+  "navigation": {
+    "aboutUs": "About Us",
+    "partners": "Partners",
+    "program": "Program",
+    "testimonials": "Testimonials",
+    "studentRoles": "Student Roles",
+    "scheduleCall": "Book a Call"
+  },
+  "hero": {
+    "title": "Learn. Build. Impact.",
+    "subtitle": "Transform your passion for gaming into real-world environmental solutions through Roblox coding"
+  },
+  "parentTestimonials": {
+    "title": "What Parents Say",
+    "subtitle": "Hear from families who've experienced the EcoBlox difference",
+    "testimonial1": {
+      "quote": "I got the typical eye roll when I suggested EcoBlox to Vinny. But creating a battery recycling game transformed our dinner conversations into discussions about lithium waste and sustainability. EcoBlox meets kids where they are—through gaming—and suddenly they're engaged, motivated, and learning real-world problem-solving without realizing it.",
+      "author": "Deborah Vasquez",
+      "role": "Vinny's Mom (8th grader)"
+    },
+    "testimonial2": {
+      "quote": "As the youngest on his team, I worried Benjamin might struggle. Instead, EcoBlox brought out leadership qualities I didn't know he had. He learned to voice ideas confidently, developed technical skills in Roblox Studio, and now feels empowered to create games that could change how his friends think about environmental issues.",
+      "author": "Linda Katz",
+      "role": "Benjamin's Mom (5th grader)"
+    },
+    "testimonial3": {
+      "quote": "As both parent and educator, I'm impressed by how EcoBlox weaves sustainability and design thinking together. Riddhi developed interdisciplinary skills—critical thinking, clear communication, systematic problem-solving—that we discuss in education but rarely see implemented this effectively. This is experiential learning that truly prepares students for real-world challenges.",
+      "author": "Kannan Santhoshini",
+      "role": "Riddhi's Mom (Parent & Educator)"
+    },
+    "testimonial4": {
+      "quote": "Like many parents, I worried about screen time. EcoBlox changed everything. Instead of passive gaming, Doyeul now builds meaningful projects in a monitored, safe environment. Watching him shift from consumer to creator has been one of the most rewarding changes I've seen as a parent.",
+      "author": "Chris Lee",
+      "role": "Doyeul's Father (5th grader)"
+    }
+  },
+  "coachTestimonials": {
+    "title": "What Our Coaches Say",
+    "subtitle": "Hear from the educators guiding students on their learning journey",
+    "testimonial1": {
+      "quote": "Teaching scripting at EcoBlox has been inspiring. Every class brings new discoveries as our students transform creative ideas into coded worlds. Each child approaches learning differently, but watching their confidence grow with every success reminds me why this work matters—it's about sparking imagination and building future innovators.",
+      "author": "Coach Abraham",
+      "role": "Tech Coach, EcoBlox"
+    },
+    "testimonial2": {
+      "quote": "Team 1 has shown incredible growth through their K-Pop Battery Sustainability project. Despite initial challenges with coding and project management, our students bonded over shared interests and persevered. Watching them transform confusion into confidence while creating a game that promotes sustainability has been truly rewarding.",
+      "author": "Coach Johnny",
+      "role": "Project Management/Planner/Tester Coach, EcoBlox"
+    },
+    "testimonial3": {
+      "quote": "Developing EcoBlox taught me that the best learning experiences combine passion with purpose. Our curriculum empowers students to become both creators and changemakers. Watching them code their own worlds while promoting sustainability shows the transformative power of project-based learning.",
+      "author": "Coach Jun",
+      "role": "Lead Coach, EcoBlox"
+    }
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "EcoBlox thrives through collaboration. We partner with parents, nonprofits, and companies to create meaningful educational experiences.",
+    "parents": {
+      "title": "Parents",
+      "description": "Join a community of parents dedicated to providing their children with innovative educational opportunities that go beyond traditional learning.",
+      "button": "Learn More"
+    },
+    "nonprofits": {
+      "title": "Nonprofits",
+      "description": "Partner with us to expand your organization's impact and provide underserved communities with access to quality environmental education.",
+      "button": "Learn More"
+    },
+    "companies": {
+      "title": "Companies",
+      "description": "Collaborate with EcoBlox to support STEM education, demonstrate corporate social responsibility, and invest in the future workforce.",
+      "button": "Learn More"
+    }
+  }
+}

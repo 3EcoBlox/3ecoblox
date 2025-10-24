@@ -1,0 +1,12 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+
+  VITE v5.4.19  ready in 905 ms
+
+  ➜  Local:   http://localhost:8080/
+  ➜  Network: http://192.168.0.102:8080/
+  ➜  press h + enter to show help
+9:18:00 PM [vite] hmr update /src/components/Footer.tsx, /src/index.css
+9:18:07 PM [vite] hmr update /src/components/Footer.tsx, /src/index.css

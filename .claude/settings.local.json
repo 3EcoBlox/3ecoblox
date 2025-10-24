@@ -9,7 +9,17 @@
       "Bash(git push:*)",
       "Bash(git rm:*)",
       "Bash(git filter-branch:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(awk '{print $9, $5}')",
+      "Bash(npm run dev)",
+      "Bash(npm install)",
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(where:*)",
+      "Bash(choco install:*)",
+      "Bash(npm install:*)",
+      "Bash(git remote set-url:*)"
     ],
     "deny": [],
     "ask": []
