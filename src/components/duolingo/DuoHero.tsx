@@ -21,7 +21,7 @@ const DuoHero = () => {
               </button>
             </ContactPopup>
             <VideoPopup
-              videoUrl="/Game-Based Learning in Action_ EcoBlox Field Trip to Korea s Environmental Theme Park.mp4"
+              videoUrl="https://vimeo.com/manage/videos/1111840426"
               title="EcoBlox Sample Class"
             >
               <button className="duo-btn duo-btn-blue">

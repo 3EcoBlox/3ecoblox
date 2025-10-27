@@ -11,14 +11,14 @@ const DuoTestimonials = () => {
       author: t('coachTestimonials.testimonial1.author'),
       role: t('coachTestimonials.testimonial1.role'),
       initials: "CA",
-      image: null
+      image: "/Pictures/coaches_img/coach_abraham.jpg"
     },
     {
       quote: t('coachTestimonials.testimonial2.quote'),
       author: t('coachTestimonials.testimonial2.author'),
       role: t('coachTestimonials.testimonial2.role'),
       initials: "CJ",
-      image: null
+      image: "/Pictures/coaches_img/coach_johnny.svg"
     },
     {
       quote: t('coachTestimonials.testimonial3.quote'),
